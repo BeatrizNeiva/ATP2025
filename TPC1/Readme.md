@@ -1,7 +1,7 @@
 # TPC1: Blockly Games
 
 ## Beatriz Sousa Neiva  A107241
-![foto](Foto_Bea.jpg)
+![foto](Foto_Bea.png)
 
 ## Resumo
 Fizemos o Maze 10.
@@ -15,3 +15,4 @@ Fizemos a figura do comboio que o professor deu.
 
 * Imagem com o programa turtle
 ![alt text](Comboio1.png)
+
