@@ -49,7 +49,7 @@ Especifique as funções utilizadas no exemplo:
 7. À semelhança do exercício 3, construa uma aplicação com um menu de interface para as operações.
 
 ## Resultados
-```
+``` python
 def existe(cinema, filme):
     cond = False
     for sala in cinema:
