@@ -25,8 +25,7 @@ Considere que o modelo do aluno e da turma têm a seguinte estrutura:
 
 ## Resultados
 ``` python
-
-<img width="1081" height="6def mostrar_menu():
+def mostrar_menu():
     print("\n--- Menu de Operações ---")
     print("1: Criar uma turma")
     print("2: Inserir um aluno na turma")
