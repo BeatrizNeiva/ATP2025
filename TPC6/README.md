@@ -1,4 +1,4 @@
-# TPC5: Aplicação: Metereologia
+# TPC6: Aplicação: Metereologia
 
 ## Beatriz Sousa Neiva  A107241
 
