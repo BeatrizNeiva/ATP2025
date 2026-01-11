@@ -1,0 +1,11 @@
+{
+    "taxa_chegada_lambda": 15,
+    "numero_medicos_padrao": 4,
+    "tempo_medio_consulta": 20,
+    "distribuicao_tempo": "Normal",
+    "tempo_simulacao_max": 480,
+    "regras_especialidade": {
+        "pediatria_max_idade": 18,
+        "geriatria_min_idade": 65
+    }
+}
